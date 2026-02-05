@@ -1,7 +1,8 @@
 # Electronic Mastermind Machine on FPGA
 
 ## 📌 Project Overview
-[cite_start]This project is a digital implementation of the classic code-breaking game **Mastermind**, designed using **Verilog HDL** and deployed on a **Tang Nano 9K FPGA** board. [cite_start]The system features a complex **Finite State Machine (FSM)** to manage game logic, player turns, score tracking, and input/output processing[cite: 149].
+   This project is a digital implementation of the classic code-breaking game **Mastermind**, designed using **Verilog HDL** and deployed on a **Tang Nano 9K FPGA** board.
+   The system features a complex **Finite State Machine (FSM)** to manage game logic, player turns, score tracking, and input/output processing.
 
 The project demonstrates proficiency in digital system design, hardware-software integration, and low-level logic implementation.
 
